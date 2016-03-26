@@ -36,3 +36,4 @@ build/
 .rvmrc
 
 *.jpg
+.DS_Store
